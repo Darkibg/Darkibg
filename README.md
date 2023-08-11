@@ -1,103 +1,36 @@
-<h1 align="center">
-  <img src="https://cdn.discordapp.com/attachments/1027458270589362257/1115852211726065715/11.gif" alt="NIGHT SERVER SUPPORT"/>
-</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <a href="https://github.com/Darkibg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F702E9&center=falso&vCenter=falso&repeat=cierto&width=435&lines=Un+Creador+de+Aplicaciones+y+Bots;Amante+del+Manga+y+las+Animaciones;Siempre+buscando+nuevas+experiencias" alt="Typing SVG" />
-  </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkibg&label=Profile%20views&color=0e75b6&style=flat" alt="darkibg" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkibg" alt="darkibg" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/darkibg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darkibg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/darkibg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darkibg" height="30" width="40" /></a>
+<a href="https://codesandbox.com/darkibg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="darkibg" height="30" width="40" /></a>
+<a href="https://fb.com/noedeveloperxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noedeveloperxd" height="30" width="40" /></a>
+<a href="https://dribbble.com/darkibg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="darkibg" height="30" width="40" /></a>
+<a href="https://hashnode.com/darkibg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="darkibg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/darkly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="darkly" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/HW3kVUA22S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HW3kVUA22S" height="30" width="40" /></a>
 </p>
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=WCCWsSkF5MY&list=RD41MeYv5iCkE&index=2"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/darkdev"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/pgDje8S3Ed" alt="Discord" title="Night Server Suppot"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/darkxd"><img width="32px" alt="Dev.to" title="MikaboshiDev Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<br/>
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/Darkibg?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MikaboshiDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/MikaboshiDev?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MikaboshiDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Darkibg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Darkibg" /></a><a href="https://ko-fi.com/Darkibg"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Darkibg" /></a></p><br><br>
 
-<br/>
-<p align="center">
-  <h2>📄 Lenguajes y Herramientas</h2>  
-  <a href="https://www.css.org/"><img width="32px" alt="Css" title="Css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.w3.org/html/"><img width="32px" alt="Html" title="Html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.javascript.com/"><img width="32px" alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.python.org/"><img width="32px" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://code.visualstudio.com/"><img width="32px" alt="Visual Studio Code" title="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.adobe.com/products/photoshop.html"><img width="32px" alt="Photoshop" title="Adobe Photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.adobe.com/products/illustrator.html"><img width="32px" alt="Illustrator" title="Adobe Illustrator" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://nodejs.org/es"><img width="32px" alt="Node JS" title="Node JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.mongodb.com/es"><img width="32px" alt="Mongo DB" title="Mongo DB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.mysql.com/"><img width="32px" alt="MySql" title="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkibg&show_icons=true&locale=en&layout=compact" alt="darkibg" /></p>
 
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkibg&show_icons=true&locale=en" alt="darkibg" /></p>
 
-<p align="center">
-  <h2>🪙 Estadísticas Personales</h2>
-  <a href="https://discord.gg/pgDje8S3Ed"><img alt="Mikaboshi Studio" src="https://github-readme-activity-graph.vercel.app/graph/?username=Darkibg&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkibg&" alt="darkibg" /></p>
 
-<details open> 
-  <summary><h2>📕 Proyectos y Contribuciones</h2></summary>
-  <p align="left">
-    <a href="https://github.com/MikaboshiDev/Night-Support"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=Night-Support&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Night Support"></a>
-    <a href="https://github.com/MikaboshiDev/discordBots"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=discordBots&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Discord Bots"></a>
-    <a href="https://github.com/MikaboshiDev/discordProyects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=discordProyects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Discord Proyects"></a>
-    <a href="https://github.com/MikaboshiDev/Markdown"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=Markdown&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Markdown"></a>
-    <a href="https://github.com/MikaboshiDev/MikaboshiDev.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=MikaboshiDev.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Mikaboshi"></a>
-    <a href="https://github.com/MikaboshiDev/Website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=Website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Website"></a>
-    <a href="https://github.com/MikaboshiDev/MotorStirling"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=MotorStirling&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Motor Stirling"></a>
-    <a href="https://github.com/MikaboshiDev/QueenSource"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=QueenSource&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Queeb Source"></a>
-    <a href="https://github.com/MikaboshiDev/escabadora3D"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MikaboshiDev&repo=escabadora3D&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Escabadora 3D"></a>
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/MikaboshiDev?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p>
-</details>
-
-<details> 
-  <summary><h2>📊 Github Estado y Estadisticas</h2></summary>
-
-  <h3>🔥 Estadísticas de Racha</h3>
-
-  <p>
-    <a href="https://github.com/Darkibg?tab=repositories">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MikaboshiDev's streak" src="https://streak-stats.demolab.com/?user=MikaboshiDev&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
-
-  <h3>💻 GitHub Perfil</h3>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Darkibg&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MikaboshiDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-<br/>
-</details>

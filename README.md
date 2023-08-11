@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/MikaboshiDev">
+  <a href="https://github.com/Darkibg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F702E9&center=falso&vCenter=falso&repeat=cierto&width=435&lines=Un+Creador+de+Aplicaciones+y+Bots;Amante+del+Manga+y+las+Animaciones;Siempre+buscando+nuevas+experiencias" alt="Typing SVG" />
   </a>
 </p>
@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/MikaboshiDev?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Darkibg?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MikaboshiDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/MikaboshiDev?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MikaboshiDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>

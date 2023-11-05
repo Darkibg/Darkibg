@@ -1,5 +1,5 @@
 <# 💫 About Me:
-👨🏻‍💻  About Me<br>👨‍💻   I’m currently studying.<br>💬   I Love dev Discords  Bots and Websites.<br>🌱   I’m currently learning TS.<br>🎈 My own Discord Bot: https://discord.gg/EfkJZAMbzF
+👨🏻‍💻  About Me<br>👨‍💻   I’m currently studying.<br>💬   I Love dev Discords  Bots and Websites.<br>🌱   I’m currently learning TS.<br>🎈 My own Discord Bot: https://discord.gg/G9RvvdVuFe
 
 
 ## 🌐 Socials:
